@@ -1,0 +1,17 @@
+{
+	"name": "live_mode_pipeline",
+	"properties": {
+		"activities": [
+			{
+				"name": "Live_Mode_Wait_Activity",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 5
+				}
+			}
+		],
+		"annotations": []
+	}
+}
