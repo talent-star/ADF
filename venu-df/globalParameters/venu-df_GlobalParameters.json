@@ -1,0 +1,6 @@
+{
+	"wait_time_global_parm": {
+		"type": "int",
+		"value": 15
+	}
+}
